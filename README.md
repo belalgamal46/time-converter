@@ -23,12 +23,12 @@ A professional React application that converts time between 12-hour and 24-hour 
 
 2. Install dependencies (if not already installed):
    ```bash
-   npm install
+   pnpm install
    ```
 
 3. Start the development server:
    ```bash
-   npm run dev
+   pnpm run dev
    ```
 
 4. Open your browser and navigate to `http://localhost:5173`
@@ -113,10 +113,10 @@ The application includes robust utility functions for time conversion:
 
 ### Available Scripts
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
+- `pnpm run dev` - Start development server
+- `pnpm run build` - Build for production
+- `pnpm run preview` - Preview production build
+- `pnpm run lint` - Run ESLint
 
 ### Customization
 
